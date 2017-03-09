@@ -17,4 +17,6 @@ Services provided by the NodeRED are as follows.
 3. Tring to integrate with Twilio app to push the message to the end user with timely irrigation information. 
   --This phase is still under development. 
 
-![myimage-alt-tag](url-to-image)
+Web folder has the exported code of the NodeRED flow. 
+
+![myimage-alt-tag](NodeRED-flow/images/NodeRED_flow.png)
