@@ -19,4 +19,4 @@ Services provided by the NodeRED are as follows.
 
 Web folder has the exported code of the NodeRED flow. 
 
-![myimage-alt-tag](NodeRED-flow/images/NodeRED_flow.png)
+![myimage-alt-tag](https://github.com/foris-io/NodeRED-flow/blob/master/images/NodeRED_flow.PNG)
